@@ -11,3 +11,8 @@ basic application in ** html **
 
 
 ![nature image](https://img.freepik.com/free-vector/www-internet-globe-grid_78370-2008.jpg)
+
+``python
+def demo():
+ print(hello)
+
