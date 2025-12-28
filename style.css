@@ -2,9 +2,13 @@ h1{
     color: red;
 }
 ul{
-    color:aquamarine
+    color:aquamarine;
     
 }
 li{
-    color:orange
+    color:orange;
+}
+hr
+{
+    color:black;
 }
